@@ -9,11 +9,13 @@ Problem type: Classification
 # Solution
 
 Submission 1:  RandomForestClassifier tuned with RandomSearchCV
+
 Submission 2:  SVC Classifier tuned with RandomSearchCV
 
 # Score
 
 Submission 1: 0.78947
+
 Submission 2: 0.77033
 
 # Notebook
